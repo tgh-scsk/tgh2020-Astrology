@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">星占いアプリ</string>
+    <string name="base_url">http://api.jugemkey.jp/api/horoscope/free/</string>
+</resources>
